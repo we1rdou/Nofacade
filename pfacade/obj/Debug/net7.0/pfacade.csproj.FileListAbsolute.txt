@@ -1,0 +1,15 @@
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\bin\Debug\net7.0\pfacade.exe
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\bin\Debug\net7.0\pfacade.deps.json
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\bin\Debug\net7.0\pfacade.runtimeconfig.json
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\bin\Debug\net7.0\pfacade.dll
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\bin\Debug\net7.0\pfacade.pdb
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\pfacade.csproj.AssemblyReference.cache
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\pfacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\pfacade.AssemblyInfoInputs.cache
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\pfacade.AssemblyInfo.cs
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\pfacade.csproj.CoreCompileInputs.cache
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\pfacade.dll
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\refint\pfacade.dll
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\pfacade.pdb
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\pfacade.genruntimeconfig.cache
+C:\Users\we1rd\OneDrive\Escritorio\pfacade\obj\Debug\net7.0\ref\pfacade.dll
